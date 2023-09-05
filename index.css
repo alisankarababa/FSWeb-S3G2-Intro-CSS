@@ -33,19 +33,19 @@ body
 
 .container100 
 {
-    width: 98vw;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
 
 .container80 {
-    width: 80vw;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
 
 .container20 {
-    width: 20vw;
+    width: 20%;
     margin-left: auto;
     margin-right: auto;
 }
